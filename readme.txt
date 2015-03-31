@@ -5,3 +5,4 @@ git has to be changed.
 git the second time to change the readme.
 the boss is stupid to use the SVN.
 crateing a new branch is quick and simple3333.
+git is a free software.
